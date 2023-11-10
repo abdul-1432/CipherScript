@@ -19,7 +19,7 @@ CipherScript is a JavaScript-based project that provides a straightforward solut
 
 2. Include the `cipherScript.js` file in your project:
 
-   ```html
+   ```HTML
    <script src="path/to/cipherScript.js"></script>
    ```
 
@@ -27,11 +27,11 @@ CipherScript is a JavaScript-based project that provides a straightforward solut
 
    ```javascript
    // Example Usage
-   const originalData = "Hello, CipherScript!";
+   const original data = "Hello, CipherScript!";
    
    // Encrypt
-   const encryptedData = CipherScript.encrypt(originalData);
-   console.log("Encrypted:", encryptedData);
+   const encrypted data = CipherScript.encrypt(original data);
+   console.log("Encrypted:", encrypted data);
 
    // Decrypt
    const decryptedData = CipherScript.decrypt(encryptedData);
