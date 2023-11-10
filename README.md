@@ -14,7 +14,7 @@ CipherScript is a JavaScript-based project that provides a straightforward solut
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/CipherScript.git
+   git clone https://github.com/abdul-1432/CipherScript/tree/main
    ```
 
 2. Include the `cipherScript.js` file in your project:
